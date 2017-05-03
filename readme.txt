@@ -7,3 +7,4 @@ qpp test add modify again .
 qpp add a  new branch
 qpp add a  new branch
 qpp add a  new branch
+qpp add && add
